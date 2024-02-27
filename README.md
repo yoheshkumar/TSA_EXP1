@@ -1,4 +1,4 @@
-# Ex.No: 01 PLOT A TIME SERIES DATA
+# Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 
 
 # AIM:
